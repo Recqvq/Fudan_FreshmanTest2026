@@ -7,7 +7,9 @@ https://elearning.fudan.edu.cn/courses/113489/quizzes/14232
 ```
 
 ## 本仓库从未在任何地方开放打赏/留微信等，若是有，可能需要确定一下是不是被忽悠了。
-## 对于不太熟悉python等的同学，可以使用https://github.com/Recqvq/Fudan_FreshmanTest2026/blob/main/asset/questions.json的题库搜索答题，也会比分散搜索稍快一点点。
+## 对于不太熟悉python等的同学，可以使用这里的题库搜索。
+https://github.com/Recqvq/Fudan_FreshmanTest2026/blob/main/asset/questions.json
+
 实验室安全测试可以参考 https://github.com/Recqvq/Fudan_SafeTest2026
 
 ## 一键开始
